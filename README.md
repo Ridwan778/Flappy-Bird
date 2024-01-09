@@ -9,7 +9,10 @@ A recreation of the classic Flappy Bird game using Python's Pygame library.
 This project replicates the popular Flappy Bird game, where the player controls a bird by tapping the space bar to navigate through pipes without hitting them.
 
 ## Installation
-
+```shell
+s = "Python syntax highlighting"
+print s
+```
 Clone the Repository:
 1. shell git clone https://github.com/yourusername/flappy-bird-pygame.git
 Install Pygame:
