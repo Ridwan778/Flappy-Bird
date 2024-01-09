@@ -24,5 +24,7 @@ Ensure you have Pygame installed. If not, install it via pip:
 
 ###### Game Instructions:
 Press the space bar to make the bird flap and ascend.
+
 Avoid colliding with the pipes. The game ends upon collision.
+
 Click on the screen to restart the game.
