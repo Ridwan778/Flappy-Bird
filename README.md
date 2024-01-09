@@ -19,6 +19,7 @@ Ensure you have Pygame installed. If not, install it via pip:
 ## Usage
 ###### Run the Game:
 ``` cd Flappy-Bird ``` 
+
 ``` python flappy.py ```
 
 ###### Game Instructions:
