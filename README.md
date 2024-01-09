@@ -10,16 +10,16 @@ This project replicates the popular Flappy Bird game, where the player controls 
 
 ## Installation
 ###### Clone the Repository:
-``` shell git clone https://github.com/Ridwan778/Flappy-Bird.git ``` shell
+```git clone https://github.com/Ridwan778/Flappy-Bird.git ```
 
 ###### Install Pygame:
 Ensure you have Pygame installed. If not, install it via pip:
-``` shell pip install pygame ``` shell
+``` pip install pygame ```
 
 ## Usage
 ###### Run the Game:
-``` shell cd Flappy-Bird ``` shell
-``` shell python flappy.py ``` shell
+``` cd Flappy-Bird ``` 
+``` python flappy.py ```
 
 ###### Game Instructions:
 Press the space bar to make the bird flap and ascend.
