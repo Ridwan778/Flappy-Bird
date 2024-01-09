@@ -23,8 +23,8 @@ Ensure you have Pygame installed. If not, install it via pip:
 ``` python flappy.py ```
 
 ###### Game Instructions:
-Press the space bar to make the bird flap and ascend.
+1. Press the space bar to make the bird flap and ascend.
 
-Avoid colliding with the pipes. The game ends upon collision.
+2. Avoid colliding with the pipes. The game ends upon collision.
 
-Click on the screen to restart the game.
+3. Click on the screen to restart the game.
