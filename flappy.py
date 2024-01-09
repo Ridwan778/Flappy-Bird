@@ -30,7 +30,7 @@ class Bird(py.sprite.Sprite):
             
             #up and down movement
             keys = py.key.get_pressed()
-            if keys[py.K_UP] and self.rect.top-5>0: 
+            if keys[py.K_SPACE] and self.rect.top-5>0: 
                 self.rect.y -= 7  # Move the bird upward
                 self.vel = -6
             else:
