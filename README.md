@@ -20,7 +20,7 @@ Ensure you have Pygame installed. If not, install it via pip:
 
 ## Usage
 Run the Game:
-``` shell cd flappy-bird-pygame\n python flappy_bird.py ``` shell
+``` shell cd flappy-bird-pygame <br>python flappy_bird.py ``` shell
 
 ## Game Instructions:
 Press the space bar to make the bird flap and ascend.
