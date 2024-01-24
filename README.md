@@ -1,6 +1,5 @@
 
-<img width="861" alt="Screenshot 2024-01-24 at 07 51 42" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/29ec41c5-f517-4b87-880c-febde75d1799">
-<img width="865" alt="Screenshot 2024-01-24 at 07 51 36" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/fa81d34b-d720-4be5-9f2f-b9762c3e7854">
+<img width="321" alt="Screenshot 2024-01-24 at 07 51 36" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/9413d4d7-6033-40d1-aed5-003745fe11fe"><img width="321" alt="Screenshot 2024-01-24 at 07 51 36" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/bcb66781-08d8-4580-8ed0-19ef095892fb">
 
 
 # Flappy Bird Game using Pygame
