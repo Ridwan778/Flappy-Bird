@@ -1,6 +1,7 @@
 
 <img width="321" alt="Screenshot 2024-01-24 at 07 51 36" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/9413d4d7-6033-40d1-aed5-003745fe11fe">
-<img width="321" alt="Screenshot 2024-01-24 at 07 51 36" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/bcb66781-08d8-4580-8ed0-19ef095892fb">
+
+<img width="318" alt="Screenshot 2024-01-24 at 07 51 42" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/bfa1055a-de96-45a1-8b04-892339a5e327">
 
 
 # Flappy Bird Game using Pygame
