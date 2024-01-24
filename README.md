@@ -1,3 +1,6 @@
+
+<img width="300" height="500 alt="Flappy Bird" src="https://github.com/Ridwan778/Flappy-Bird/assets/113521598/88703230-f944-47a9-8136-37caf1c6614b">
+
 # Flappy Bird Game using Pygame
 
 ## Description
